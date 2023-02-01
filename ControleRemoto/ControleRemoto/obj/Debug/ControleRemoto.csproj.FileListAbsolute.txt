@@ -1,0 +1,24 @@
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.AssemblyReference.cache
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.CoreCompileInputs.cache
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.exe.config
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.exe
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.pdb
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.exe
+C:\Users\adolfo.bocchi\source\repos\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.pdb
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.exe.config
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.exe
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.pdb
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.AssemblyReference.cache
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.exe
+C:\Users\carlos.hcoliveira2\Documents\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.pdb
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.exe.config
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.exe
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\bin\Debug\ControleRemoto.pdb
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.AssemblyReference.cache
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.exe
+C:\Users\carlos.hcoliveira2\source\repos\Projeto C#\ControleRemoto\ControleRemoto\obj\Debug\ControleRemoto.pdb
